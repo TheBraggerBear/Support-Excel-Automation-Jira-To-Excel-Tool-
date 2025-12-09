@@ -1,0 +1,1078 @@
+{
+  "expand" : "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+  "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008",
+  "key" : "DTVIEWER-19479",
+  "fields" : {
+    "customfield_19200" : null,
+    "customfield_23700" : null,
+    "customfield_19201" : null,
+    "customfield_19202" : null,
+    "customfield_19203" : null,
+    "customfield_24914" : null,
+    "customfield_13100" : null,
+    "customfield_17700" : null,
+    "customfield_13101" : null,
+    "customfield_17704" : null,
+    "resolution" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/resolution/10",
+      "id" : "10",
+      "description" : "",
+      "name" : "Done"
+    },
+    "customfield_17701" : null,
+    "customfield_10500" : null,
+    "customfield_26300" : null,
+    "customfield_28600" : null,
+    "customfield_28601" : null,
+    "lastViewed" : null,
+    "customfield_18900" : null,
+    "customfield_24929" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/58101",
+      "value" : "Incomplete",
+      "id" : "58101",
+      "disabled" : false
+    },
+    "customfield_18901" : null,
+    "labels" : [ ],
+    "aggregatetimeoriginalestimate" : null,
+    "customfield_25100" : null,
+    "issuelinks" : [ ],
+    "assignee" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+      "name" : "SK027026",
+      "key" : "sk027026",
+      "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+      "avatarUrls" : {
+        "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+        "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+        "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+        "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+      },
+      "displayName" : "Kamepalli, Srikanth",
+      "active" : true,
+      "timeZone" : "America/Chicago"
+    },
+    "customfield_24930" : null,
+    "customfield_25900" : null,
+    "customfield_19300" : null,
+    "customfield_23602" : null,
+    "customfield_25901" : null,
+    "components" : [ ],
+    "customfield_19301" : null,
+    "customfield_23603" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/47018",
+      "value" : "Real-Time Health",
+      "id" : "47018",
+      "disabled" : false
+    },
+    "customfield_25902" : null,
+    "customfield_19302" : null,
+    "customfield_25903" : null,
+    "customfield_17003" : null,
+    "customfield_23605" : null,
+    "customfield_25904" : null,
+    "customfield_17002" : null,
+    "customfield_25905" : null,
+    "customfield_17001" : null,
+    "customfield_23000" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/38301",
+      "value" : "No",
+      "id" : "38301",
+      "disabled" : false
+    },
+    "customfield_23607" : null,
+    "customfield_17000" : null,
+    "customfield_19303" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/22603",
+      "value" : "Build/Config/Environment",
+      "id" : "22603",
+      "disabled" : false
+    },
+    "customfield_17800" : null,
+    "customfield_10600" : null,
+    "customfield_26200" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+      "name" : "SK027026",
+      "key" : "sk027026",
+      "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+      "avatarUrls" : {
+        "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+        "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+        "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+        "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+      },
+      "displayName" : "Kamepalli, Srikanth",
+      "active" : true,
+      "timeZone" : "America/Chicago"
+    },
+    "customfield_28500" : null,
+    "customfield_22700" : null,
+    "customfield_24700" : null,
+    "customfield_24701" : null,
+    "customfield_18200" : null,
+    "subtasks" : [ ],
+    "customfield_14400" : null,
+    "reporter" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+      "name" : "AA1884185",
+      "key" : "JIRAUSER281343",
+      "emailAddress" : "adam.ashton@oracle.com",
+      "avatarUrls" : {
+        "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+        "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+        "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+        "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+      },
+      "displayName" : "Ashton, Adam",
+      "active" : true,
+      "timeZone" : "US/Central"
+    },
+    "customfield_11800" : null,
+    "customfield_25001" : null,
+    "customfield_27301" : null,
+    "customfield_27300" : null,
+    "progress" : {
+      "progress" : 0,
+      "total" : 0
+    },
+    "votes" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/issue/DTVIEWER-19479/votes",
+      "votes" : 0,
+      "hasVoted" : false
+    },
+    "worklog" : {
+      "startAt" : 0,
+      "maxResults" : 20,
+      "total" : 0,
+      "worklogs" : [ ]
+    },
+    "customfield_27302" : null,
+    "archivedby" : null,
+    "customfield_23500" : null,
+    "customfield_23501" : null,
+    "customfield_25800" : null,
+    "customfield_25801" : null,
+    "issuetype" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/issuetype/11401",
+      "id" : "11401",
+      "description" : "Issue Investigations are opened after a test run fails. These tickets track the work required to determine if the test failure should lead to a Defect. Issue Investigations were introduced as part of the RQM-JIRA integration and should be used for RQM test run failures.",
+      "iconUrl" : "https://jira2.cerner.com/secure/viewavatar?size=xsmall&avatarId=20920&avatarType=issuetype",
+      "name" : "Issue Investigation",
+      "subtask" : false,
+      "avatarId" : 20920
+    },
+    "customfield_23504" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/43821",
+      "value" : "No",
+      "id" : "43821",
+      "disabled" : false
+    },
+    "customfield_25803" : null,
+    "customfield_23505" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/43823",
+      "value" : "No",
+      "id" : "43823",
+      "disabled" : false
+    },
+    "customfield_17102" : null,
+    "customfield_23506" : [ {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/47900",
+      "value" : "Oracle Health 724Access Downtime Viewer",
+      "id" : "47900",
+      "disabled" : false
+    } ],
+    "customfield_17101" : null,
+    "customfield_23507" : null,
+    "customfield_23508" : null,
+    "customfield_23509" : null,
+    "project" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/project/11413",
+      "id" : "11413",
+      "key" : "DTVIEWER",
+      "name" : "724Access Downtime Viewer",
+      "projectTypeKey" : "software",
+      "avatarUrls" : {
+        "48x48" : "https://jira2.cerner.com/secure/projectavatar?pid=11413&avatarId=10011",
+        "24x24" : "https://jira2.cerner.com/secure/projectavatar?size=small&pid=11413&avatarId=10011",
+        "16x16" : "https://jira2.cerner.com/secure/projectavatar?size=xsmall&pid=11413&avatarId=10011",
+        "32x32" : "https://jira2.cerner.com/secure/projectavatar?size=medium&pid=11413&avatarId=10011"
+      },
+      "projectCategory" : {
+        "self" : "https://jira2.cerner.com/rest/api/2/projectCategory/11901",
+        "id" : "11901",
+        "description" : "Project category generated by nav-jira-importer.",
+        "name" : "Business Continuity"
+      }
+    },
+    "customfield_11000" : null,
+    "customfield_10700" : null,
+    "customfield_10701" : null,
+    "customfield_10703" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/10400",
+      "value" : "Frequent",
+      "id" : "10400",
+      "disabled" : false
+    },
+    "customfield_10704" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/version/891900",
+      "id" : "891900",
+      "description" : "",
+      "name" : "724Access Downtime Viewer 5.17.1",
+      "archived" : false,
+      "released" : true,
+      "releaseDate" : "2025-02-04"
+    },
+    "customfield_26100" : "2025-10-07T11:20:41.350-0500",
+    "resolutiondate" : "2025-10-07T11:20:57.010-0500",
+    "customfield_28400" : null,
+    "customfield_22800" : "AA1884185, MB1778538, SK027026",
+    "customfield_23510" : null,
+    "customfield_26900" : null,
+    "customfield_23514" : null,
+    "watches" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/issue/DTVIEWER-19479/watchers",
+      "watchCount" : 3,
+      "isWatching" : false
+    },
+    "customfield_23515" : null,
+    "customfield_18301" : null,
+    "customfield_23517" : null,
+    "customfield_22000" : "<div class=\"field-group\">\r\n<table style=\"width: 500px; float: left; margin: 0 auto; text-align: left; padding: 7px; background-color: #D8E4F1; border:1px solid #3C78B5\">\r\n<colgroup><col width=\"24\"><col></colgroup>\r\n<tbody>\r\n<tr>\r\n<td valign=\"top\"><img src=\"/images/icons/emoticons/information.gif\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\" border=\"0\" style=\"margin-right: 5px\"></td>\r\n<td>Evaluate the questions on the Prioritize Change Requests wiki page under the Evaluate Development Issues section, to determine whether the combination of any previously existing defects and the new defects increases or adds new risks not previously identified.\r\n<br>\r\n<br>\r\nIf the answer to any of the Risk and Compliance Review questions is Yes, review and, if necessary, update the Release Justification text area on this Risk Assessment tab with the justification to release the software. If all answers are No, update the Release Justification text area on this Risk Assessment tab with \"No risk\".\r\n<br>\r\n<br>\r\n<a href=\"https://wiki.cerner.com/pages/releaseview.action?spaceKey=processIT&title=Prioritize%20Change%20Requests\" target=\"_blank\">Prioritize Change Requests - ProcessIT - Cerner Wiki</a></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>",
+    "customfield_23518" : null,
+    "customfield_18302" : null,
+    "customfield_18303" : null,
+    "customfield_14500" : null,
+    "customfield_16800" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/17901",
+      "value" : "No",
+      "id" : "17901",
+      "disabled" : false
+    },
+    "customfield_14501" : null,
+    "customfield_10016" : null,
+    "customfield_11900" : null,
+    "customfield_27200" : null,
+    "customfield_23520" : null,
+    "updated" : "2025-10-07T11:20:57.013-0500",
+    "customfield_19500" : null,
+    "customfield_17201" : null,
+    "customfield_23200" : {
+      "name" : "DPE_724Access",
+      "self" : "https://jira2.cerner.com/rest/api/2/group?groupname=DPE_724Access"
+    },
+    "customfield_17200" : null,
+    "timeoriginalestimate" : null,
+    "description" : "{color:#172b4d}TK version: 2025.01{color}{color:#172b4d}\r\nAll midtiers are 19c\r\nDTV version: 5.17.1\r\nClient: BSSW_UK{color}",
+    "customfield_10010" : null,
+    "customfield_10011" : null,
+    "customfield_17202" : null,
+    "customfield_10012" : null,
+    "customfield_13401" : null,
+    "customfield_19501" : null,
+    "customfield_10013" : null,
+    "customfield_13400" : null,
+    "customfield_10014" : null,
+    "timetracking" : { },
+    "customfield_13402" : null,
+    "customfield_15700" : "<div class=\"field-group\">\r\n<table style=\"width: 500px; float: left; margin: 0 auto; text-align: left; padding: 7px; background-color: #D8E4F1; border:1px solid #3C78B5\">\r\n<colgroup><col width=\"24\"><col></colgroup>\r\n<tbody>\r\n<tr>\r\n<td valign=\"top\"><img src=\"/images/icons/emoticons/information.gif\" width=\"16\" height=\"16\" align=\"absmiddle\" alt=\"\" border=\"0\" style=\"margin-right: 5px\"></td>\r\n<td>See <a href=\"https://wiki.cerner.com/x/brMAhg\" target=\"_blank\">Guidelines for Creating and Editing Release Text</a> for guidelines on creating release notes.</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>",
+    "customfield_19504" : null,
+    "customfield_10005" : null,
+    "customfield_10006" : null,
+    "customfield_10007" : null,
+    "customfield_10008" : null,
+    "customfield_10009" : null,
+    "customfield_26001" : null,
+    "customfield_26000" : null,
+    "customfield_26003" : null,
+    "customfield_26002" : null,
+    "customfield_26005" : null,
+    "customfield_26004" : null,
+    "customfield_22900" : null,
+    "customfield_20600" : "Done",
+    "customfield_26007" : null,
+    "customfield_26006" : null,
+    "customfield_26009" : null,
+    "customfield_26008" : null,
+    "summary" : "Only patient demographics tab visible in patient view",
+    "customfield_22101" : null,
+    "customfield_18400" : null,
+    "customfield_22100" : null,
+    "customfield_10000" : null,
+    "customfield_10001" : null,
+    "customfield_12301" : null,
+    "customfield_14601" : null,
+    "customfield_10002" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/10003",
+      "value" : "No",
+      "id" : "10003",
+      "disabled" : false
+    },
+    "customfield_10003" : null,
+    "customfield_10004" : null,
+    "environment" : null,
+    "customfield_26010" : null,
+    "duedate" : null,
+    "customfield_26012" : null,
+    "customfield_27101" : "<font color='black'><b>21.0 days</b></font></a>",
+    "customfield_26011" : null,
+    "comment" : {
+      "comments" : [ {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15746676",
+        "id" : "15746676",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "body" : "Example of the issue:\r\n!bssw issue example.png!",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "created" : "2025-09-08T08:38:57.433-0500",
+        "updated" : "2025-09-08T08:38:57.433-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15774437",
+        "id" : "15774437",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "body" : "Have we checked admin tool global preferences to see if other tab preferences(Microbiology, orders, medication administrator...) are enabled or not? and also we can query the preference table to see if we have preferences enabled or not? ",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "created" : "2025-09-15T08:19:58.957-0500",
+        "updated" : "2025-09-15T08:19:58.957-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15774501",
+        "id" : "15774501",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "body" : "All tabs are enabled in the admin tool, I've not checked the preferences DB - do you have some queries for me to run? ",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "created" : "2025-09-15T08:22:41.367-0500",
+        "updated" : "2025-09-15T08:22:41.367-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15774693",
+        "id" : "15774693",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "body" : "Can you run the following query on the MT and on pc as well?\r\nselect pref_value,pref_context from preference where dsn_name is null and pref_context like '%_IND%';",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "created" : "2025-09-15T08:51:31.410-0500",
+        "updated" : "2025-09-15T08:51:31.410-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15800641",
+        "id" : "15800641",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "body" : "[~AA1884185] Any update on this?",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "created" : "2025-09-22T08:05:53.997-0500",
+        "updated" : "2025-09-22T08:05:53.997-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15806848",
+        "id" : "15806848",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "body" : "On the midtier:\r\n\"PREF_VALUE\",\"PREF_CONTEXT\"\r\n\"0\",\"LAST_RATE_CHANGE_IND\"\r\n\"1\",\"UTC_IND\"\r\n\"1\",\"URN_IND\"\r\n\"1\",\"LAB_RESULTS_IND\"\r\n\"1\",\"PATIENT_CARE_RESULTS_IND\"\r\n\"1\",\"MEDICATION_ORDERS_IND\"\r\n\"1\",\"MEDICATION_ORDERS_REVERSE_IND\"\r\n\"0\",\"PRINT_NEW_MED_ORDERS_PAGE_IND\"\r\n\"1\",\"ACTIVE_FUTURE_ORDERS_IND\"\r\n\"0\",\"POWER_PLANS_IND\"\r\n\"1\",\"VITAL_SIGNS_IND\"\r\n\"1\",\"DOCUMENTS_IND\"\r\n\"0\",\"EXCLUDE_DEMOGRAPHICS_IND\"\r\n\"0\",\"EXCLUDE_INSURANCE_IND\"\r\n\"0\",\"EXCLUDE_PAGER_IND\"\r\n\"0\",\"EXCLUDE_CONTACT_ADDRESS_IND\"\r\n\"0\",\"SITE_PREFERENCE_IND\"\r\n\"0\",\"SITE_PREFERENCE_IND\"\r\n\"0\",\"SITE_PREFERENCE_IND\"\r\n\"1\",\"INTAKE_OUTPUT_2G_IND\"\r\n\"1\",\"SCHEDULED_APPT_IND\"\r\n\"1\",\"MICROBIOLOGY_IND\"\r\n\"1\",\"MEDICATION_PROFILE_IND\"\r\n\"1\",\"IMMUNIZATION_HISTORY_IND\"\r\n\"0\",\"DISPLAY_END_BAG_TASK_IND\"\r\n\r\n \r\n\r\nOn the PC:\r\nmysql> select pref_value,pref_context from preference where dsn_name is null and pref_context like '%_IND%';\r\n+------------+-------------------------------+\r\n| pref_value | pref_context                  |\r\n+------------+-------------------------------+\r\n| 0          | LAST_RATE_CHANGE_IND          |\r\n| 1          | UTC_IND                       |\r\n| 1          | URN_IND                       |\r\n| 1          | LAB_RESULTS_IND               |\r\n| 1          | PATIENT_CARE_RESULTS_IND      |\r\n| 1          | MEDICATION_ORDERS_IND         |\r\n| 1          | MEDICATION_ORDERS_REVERSE_IND |\r\n| 0          | PRINT_NEW_MED_ORDERS_PAGE_IND |\r\n| 1          | ACTIVE_FUTURE_ORDERS_IND      |\r\n| 0          | POWER_PLANS_IND               |\r\n| 1          | VITAL_SIGNS_IND               |\r\n| 1          | DOCUMENTS_IND                 |\r\n| 0          | EXCLUDE_DEMOGRAPHICS_IND      |\r\n| 0          | EXCLUDE_INSURANCE_IND         |\r\n| 0          | EXCLUDE_PAGER_IND             |\r\n| 0          | EXCLUDE_CONTACT_ADDRESS_IND   |\r\n| 0          | SITE_PREFERENCE_IND           |\r\n| 0          | SITE_PREFERENCE_IND           |\r\n| 0          | SITE_PREFERENCE_IND           |\r\n| 1          | INTAKE_OUTPUT_2G_IND          |\r\n| 1          | SCHEDULED_APPT_IND            |\r\n| 1          | MICROBIOLOGY_IND              |\r\n| 1          | MEDICATION_PROFILE_IND        |\r\n| 1          | IMMUNIZATION_HISTORY_IND      |\r\n| 0          | DISPLAY_END_BAG_TASK_IND      |\r\n+------------+-------------------------------+",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "created" : "2025-09-23T10:01:26.280-0500",
+        "updated" : "2025-09-23T10:01:26.280-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15807401",
+        "id" : "15807401",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "body" : "Can you please attach the viewer log file from C:\\724Access\\log folder? do we have this issue on one pc or multiple pc's?",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "created" : "2025-09-23T11:12:06.270-0500",
+        "updated" : "2025-09-23T11:12:06.270-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15807589",
+        "id" : "15807589",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "body" : "Ah, I should have checked this log before - apologies. \r\n{code:java}\r\nSep 04, 2025 2:37:04 PM com.cerner.seventwentyfour.viewer.patientinformation.biz.DemographicsDelegate populatePersonInformation\r\nSEVERE: [{ERROR - MISSING RESOURCE}{RESOURCE KEY - Query to the person alias table returned no results for person_id = 2882426}]\r\nSep 04, 2025 2:37:39 PM com.cerner.seventwentyfour.viewer.patientinformation.biz.DemographicsDelegate populatePersonInformation\r\nSEVERE: [{ERROR - MISSING RESOURCE}{RESOURCE KEY - Query to the person alias table returned no results for person_id = 2894327}]\r\n{code}\r\nWe've not checked PCs against other midtiers yet, but will ask the client to check tomorrow*\r\n\r\n ",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "created" : "2025-09-23T11:30:55.670-0500",
+        "updated" : "2025-09-23T11:32:24.917-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15810992",
+        "id" : "15810992",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "body" : "[~AA1884185] can you get the entire log with log level set to Finest? can you also share Mt & device name?",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "created" : "2025-09-24T08:06:23.633-0500",
+        "updated" : "2025-09-24T08:06:23.633-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15824905",
+        "id" : "15824905",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "body" : "Hi Srikanth.\r\nWe've confirmed that the same issue does not occur on all midtiers. \r\n{color:#000000}BSSWUK72405{color} is unaffected\r\n\r\n{color:#000000}BSSWUK72403{color} is affected, PC name: PC11161\r\n\r\n \r\n\r\n[^logs.zip]",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "created" : "2025-09-29T04:54:57.497-0500",
+        "updated" : "2025-09-29T04:54:57.497-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15825818",
+        "id" : "15825818",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "body" : "I am not seeing any preference rows in the 03 MT. can you check again?\r\n{code:java}\r\nSQL> /DSN_NAME                                                                                             VPUMP_ACTIVE_IND PARENT_PUMP_PC_ID PARENT_PUMP_PC_NAME\r\n---------------------------------------------------------------------------------------------------- ---------------- ----------------- ----------------------------------------------------------------------------------------------------\r\nPC11161                                                                                                             1                 0SQL> select pref_context,pref_value,dsn_name from preference where dsn_name is null and pref_context like '%IND%';no rows selectedSQL> select pref_value,pref_context from preference where dsn_name is null and pref_context like '%_IND%';no rows selected {code}",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "created" : "2025-09-29T09:00:19.087-0500",
+        "updated" : "2025-09-29T09:00:35.003-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15852554",
+        "id" : "15852554",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "body" : "Hi Srikanth. I copied the IND preferences from the working midtiers and this is resolved now, thank you.\r\nAre there any other required preference rows which may be missing please? J",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+          "name" : "AA1884185",
+          "key" : "JIRAUSER281343",
+          "emailAddress" : "adam.ashton@oracle.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Ashton, Adam",
+          "active" : true,
+          "timeZone" : "US/Central"
+        },
+        "created" : "2025-10-07T04:04:28.377-0500",
+        "updated" : "2025-10-07T04:04:28.377-0500"
+      }, {
+        "self" : "https://jira2.cerner.com/rest/api/2/issue/6841008/comment/15855209",
+        "id" : "15855209",
+        "author" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "body" : "I don't think we have any required preferences. it is based on the client's preference. if they think they are not seeing the tab or other preference they can select it from the admin tool.\r\n\r\nI am going to close this Jira, feel free to create a new Jira if you need more help. Thank you!",
+        "updateAuthor" : {
+          "self" : "https://jira2.cerner.com/rest/api/2/user?username=SK027026",
+          "name" : "SK027026",
+          "key" : "sk027026",
+          "emailAddress" : "Srikanth.Kamepalli@Cerner.com",
+          "avatarUrls" : {
+            "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+            "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+            "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+            "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+          },
+          "displayName" : "Kamepalli, Srikanth",
+          "active" : true,
+          "timeZone" : "America/Chicago"
+        },
+        "created" : "2025-10-07T11:20:41.350-0500",
+        "updated" : "2025-10-07T11:20:41.350-0500"
+      } ],
+      "maxResults" : 13,
+      "total" : 13,
+      "startAt" : 0
+    },
+    "customfield_21800" : null,
+    "customfield_27901" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/58110",
+      "value" : "Incomplete",
+      "id" : "58110",
+      "disabled" : false
+    },
+    "customfield_27900" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/58107",
+      "value" : "Incomplete",
+      "id" : "58107",
+      "disabled" : false
+    },
+    "customfield_27902" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/58112",
+      "value" : "Incomplete",
+      "id" : "58112",
+      "disabled" : false
+    },
+    "customfield_21000" : null,
+    "customfield_17302" : null,
+    "fixVersions" : [ ],
+    "customfield_11200" : "2025-09-15T08:19:58.957-0500",
+    "customfield_10901" : null,
+    "customfield_16321" : null,
+    "customfield_16200" : null,
+    "customfield_16320" : null,
+    "customfield_16325" : null,
+    "customfield_18504" : null,
+    "customfield_16324" : null,
+    "customfield_16323" : null,
+    "customfield_16202" : 0.0,
+    "customfield_16322" : null,
+    "customfield_16201" : null,
+    "priority" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/priority/3",
+      "iconUrl" : "https://jira2.cerner.com/images/icons/priorities/major.svg",
+      "name" : "Medium",
+      "id" : "3"
+    },
+    "customfield_10100" : null,
+    "customfield_16328" : null,
+    "customfield_16327" : null,
+    "customfield_16326" : null,
+    "customfield_14812" : null,
+    "customfield_14813" : "<script type=\\\"text/javascript\\\">\r\nif (!(AJS.$('#rowForcustomfield_15300').exists() || AJS.$('#rowForcustomfield_15301').exists())) {\r\n            AJS.$('#accurev-transaction-tabpanel').hide();\r\n\t\t\tAJS.$('#accurev-change-tabpanel').hide();\r\n        }\t\t\t\r\nif    ((AJS.$('#rowForcustomfield_14803').exists())) {\r\n    AJS.toInit(function(){\r\n        // init on load\r\n\t\tAJS.$(\"#clone-issue-ric\").hide();\r\n    })\r\n    JIRA.bind(JIRA.Events.NEW_CONTENT_ADDED, function (e, context) {\r\n        // init on refresh\r\n\t\tAJS.$(\"#clone-issue-ric\").hide();\r\n    });\r\n}\r\n</script> ",
+    "customfield_16319" : null,
+    "timeestimate" : null,
+    "versions" : [ ],
+    "customfield_21900" : [ "No" ],
+    "customfield_25500" : null,
+    "customfield_25502" : null,
+    "customfield_25503" : null,
+    "status" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/status/6",
+      "description" : "",
+      "iconUrl" : "https://jira2.cerner.com/images/icons/statuses/closed.png",
+      "name" : "Closed",
+      "id" : "6",
+      "statusCategory" : {
+        "self" : "https://jira2.cerner.com/rest/api/2/statuscategory/3",
+        "id" : 3,
+        "key" : "done",
+        "colorName" : "success",
+        "name" : "Done"
+      }
+    },
+    "customfield_25505" : null,
+    "customfield_25506" : null,
+    "customfield_25507" : null,
+    "customfield_16310" : null,
+    "customfield_16314" : null,
+    "customfield_16312" : null,
+    "customfield_16311" : null,
+    "customfield_16318" : null,
+    "customfield_16317" : null,
+    "customfield_19700" : "{summaryBean=com.atlassian.jira.plugin.devstatus.rest.SummaryBean@48703131[summary={pullrequest=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@445131ab[overall=PullRequestOverallBean{stateCount=0, state='OPEN', details=PullRequestOverallDetails{openCount=0, mergedCount=0, declinedCount=0}},byInstanceType={}], build=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@2e2101cc[overall=com.atlassian.jira.plugin.devstatus.summary.beans.BuildOverallBean@63b0b1ca[failedBuildCount=0,successfulBuildCount=0,unknownBuildCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], review=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@45ecf3a5[overall=com.atlassian.jira.plugin.devstatus.summary.beans.ReviewsOverallBean@287d7ad3[stateCount=0,state=<null>,dueDate=<null>,overDue=false,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], deployment-environment=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@e742171[overall=com.atlassian.jira.plugin.devstatus.summary.beans.DeploymentOverallBean@68acef94[topEnvironments=[],showProjects=false,successfulCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], repository=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@4a7f48ff[overall=com.atlassian.jira.plugin.devstatus.summary.beans.CommitOverallBean@9971881[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], branch=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@26c7df6b[overall=com.atlassian.jira.plugin.devstatus.summary.beans.BranchOverallBean@29185468[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}]},errors=[],configErrors=[]], devSummaryJson={\"cachedValue\":{\"errors\":[],\"configErrors\":[],\"summary\":{\"pullrequest\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":\"OPEN\",\"details\":{\"openCount\":0,\"mergedCount\":0,\"declinedCount\":0,\"total\":0},\"open\":true},\"byInstanceType\":{}},\"build\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"failedBuildCount\":0,\"successfulBuildCount\":0,\"unknownBuildCount\":0},\"byInstanceType\":{}},\"review\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":null,\"dueDate\":null,\"overDue\":false,\"completed\":false},\"byInstanceType\":{}},\"deployment-environment\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"topEnvironments\":[],\"showProjects\":false,\"successfulCount\":0},\"byInstanceType\":{}},\"repository\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}},\"branch\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}}}},\"isStale\":true}}",
+    "customfield_16316" : null,
+    "customfield_16315" : null,
+    "archiveddate" : null,
+    "customfield_14803" : null,
+    "customfield_10205" : "9223372036854775807",
+    "customfield_14801" : [ "Downtime Viewer" ],
+    "customfield_16309" : null,
+    "customfield_10206" : null,
+    "customfield_14802" : [ "DPE_724Access" ],
+    "customfield_16308" : null,
+    "customfield_10207" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/10102",
+      "value" : "No",
+      "id" : "10102",
+      "disabled" : false
+    },
+    "aggregatetimeestimate" : null,
+    "customfield_10208" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/19004",
+      "value" : "Client Reported",
+      "id" : "19004",
+      "disabled" : false
+    },
+    "customfield_22302" : null,
+    "customfield_22301" : null,
+    "customfield_20000" : null,
+    "customfield_22300" : null,
+    "creator" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+      "name" : "AA1884185",
+      "key" : "JIRAUSER281343",
+      "emailAddress" : "adam.ashton@oracle.com",
+      "avatarUrls" : {
+        "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+        "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+        "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+        "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+      },
+      "displayName" : "Ashton, Adam",
+      "active" : true,
+      "timeZone" : "US/Central"
+    },
+    "customfield_14000" : "2|i9fqs8:",
+    "aggregateprogress" : {
+      "progress" : 0,
+      "total" : 0
+    },
+    "customfield_16307" : null,
+    "customfield_14800" : [ "724Access Downtime Viewer" ],
+    "customfield_10202" : null,
+    "customfield_14913" : null,
+    "customfield_14914" : null,
+    "customfield_14911" : null,
+    "customfield_14912" : null,
+    "customfield_14917" : null,
+    "customfield_14918" : null,
+    "customfield_14915" : null,
+    "customfield_14916" : null,
+    "customfield_27700" : null,
+    "customfield_19002" : null,
+    "customfield_21200" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/26600",
+      "value" : "DPE_724Access",
+      "id" : "26600",
+      "disabled" : false
+    },
+    "timespent" : null,
+    "customfield_19802" : null,
+    "customfield_15200" : null,
+    "customfield_19804" : null,
+    "customfield_17500" : {
+      "id" : 1729,
+      "name" : "DPE_724Access"
+    },
+    "customfield_19805" : null,
+    "aggregatetimespent" : null,
+    "customfield_14910" : null,
+    "customfield_10311" : null,
+    "customfield_19800" : null,
+    "customfield_14901" : null,
+    "customfield_17617" : null,
+    "customfield_10306" : null,
+    "customfield_10307" : null,
+    "customfield_14907" : null,
+    "customfield_10308" : null,
+    "customfield_10309" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/10208",
+      "value" : "Functional",
+      "id" : "10208",
+      "disabled" : false
+    },
+    "workratio" : -1,
+    "customfield_14908" : null,
+    "customfield_26500" : null,
+    "customfield_14909" : null,
+    "customfield_20900" : "",
+    "customfield_22402" : null,
+    "customfield_22401" : null,
+    "customfield_22400" : null,
+    "customfield_20100" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/22400",
+      "value" : "Issue",
+      "id" : "22400",
+      "disabled" : false
+    },
+    "created" : "2025-09-08T08:23:29.687-0500",
+    "customfield_17612" : null,
+    "customfield_17616" : null,
+    "customfield_17615" : null,
+    "customfield_10300" : null,
+    "customfield_18700" : null,
+    "customfield_17613" : "DTVIEWER-19479",
+    "customfield_17608" : null,
+    "customfield_17607" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/19275",
+      "value" : "No",
+      "id" : "19275",
+      "disabled" : false
+    },
+    "customfield_17606" : null,
+    "customfield_24210" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/47318",
+      "value" : "Security",
+      "id" : "47318",
+      "disabled" : false
+    },
+    "customfield_27600" : "6_*:*_1_*:*_0_*|*_10000_*:*_1_*:*_658987673_*|*_11117_*:*_1_*:*_1857259657",
+    "customfield_25307" : null,
+    "customfield_25308" : null,
+    "customfield_17601" : null,
+    "customfield_17600" : null,
+    "customfield_15300" : null,
+    "customfield_17605" : null,
+    "customfield_17604" : null,
+    "customfield_17603" : null,
+    "customfield_17602" : null,
+    "attachment" : [ {
+      "self" : "https://jira2.cerner.com/rest/api/2/attachment/4660338",
+      "id" : "4660338",
+      "filename" : "bssw issue example.png",
+      "author" : {
+        "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+        "name" : "AA1884185",
+        "key" : "JIRAUSER281343",
+        "emailAddress" : "adam.ashton@oracle.com",
+        "avatarUrls" : {
+          "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+          "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+          "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+          "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+        },
+        "displayName" : "Ashton, Adam",
+        "active" : true,
+        "timeZone" : "US/Central"
+      },
+      "created" : "2025-09-08T08:38:54.210-0500",
+      "size" : 131760,
+      "mimeType" : "image/png",
+      "content" : "https://jira2.cerner.com/secure/attachment/4660338/bssw+issue+example.png",
+      "thumbnail" : "https://jira2.cerner.com/secure/thumbnail/4660338/_thumb_4660338.png"
+    }, {
+      "self" : "https://jira2.cerner.com/rest/api/2/attachment/4692501",
+      "id" : "4692501",
+      "filename" : "logs.zip",
+      "author" : {
+        "self" : "https://jira2.cerner.com/rest/api/2/user?username=AA1884185",
+        "name" : "AA1884185",
+        "key" : "JIRAUSER281343",
+        "emailAddress" : "adam.ashton@oracle.com",
+        "avatarUrls" : {
+          "48x48" : "https://jira2.cerner.com/secure/useravatar?avatarId=10122",
+          "24x24" : "https://jira2.cerner.com/secure/useravatar?size=small&avatarId=10122",
+          "16x16" : "https://jira2.cerner.com/secure/useravatar?size=xsmall&avatarId=10122",
+          "32x32" : "https://jira2.cerner.com/secure/useravatar?size=medium&avatarId=10122"
+        },
+        "displayName" : "Ashton, Adam",
+        "active" : true,
+        "timeZone" : "US/Central"
+      },
+      "created" : "2025-09-29T04:54:54.607-0500",
+      "size" : 142219,
+      "mimeType" : "application/zip",
+      "content" : "https://jira2.cerner.com/secure/attachment/4692501/logs.zip"
+    } ],
+    "customfield_28700" : null,
+    "customfield_26400" : null,
+    "customfield_22503" : null,
+    "customfield_24905" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/46118",
+      "value" : "Incomplete",
+      "id" : "46118",
+      "disabled" : false
+    },
+    "customfield_18000" : null,
+    "customfield_24907" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/58601",
+      "value" : "Incomplete",
+      "id" : "58601",
+      "disabled" : false
+    },
+    "customfield_24908" : {
+      "self" : "https://jira2.cerner.com/rest/api/2/customFieldOption/58600",
+      "value" : "Incomplete",
+      "id" : "58600",
+      "disabled" : false
+    },
+    "customfield_10400" : null,
+    "customfield_25204" : null
+  }
+}

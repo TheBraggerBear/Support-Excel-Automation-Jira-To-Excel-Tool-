@@ -1,2 +1,7 @@
-com\oracleinternshiip\JiraAPIClient.class
-com\oracleinternshiip\Main.class
+com/oracleinternship/Main.class
+com/oracleinternship/JsonParser.class
+com/oracleinternship/ExcelWriter.class
+com/oracleinternship/MainAppController.class
+com/oracleinternship/JiraApiClient.class
+com/oracleinternship/MainApp.class
+com/oracleinternship/Ticket.class
